@@ -1,0 +1,10 @@
+# Ignora la cartella dei file compilati
+bin/
+
+# File Eclipse
+.project
+.classpath
+.settings/
+
+# File compilati Java
+*.class
