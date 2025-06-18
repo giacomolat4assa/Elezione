@@ -8,3 +8,4 @@ bin/
 
 # File compilati Java
 *.class
+.DS_Store
